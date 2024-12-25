@@ -1,0 +1,8 @@
+[
+      {
+        "id": "user-1",
+        "nom": "John Doe",
+        "email": "john.doe@example.com",
+        "role": "souscripteur"
+      }
+    ]
